@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<patient>
+<eating>
+  <patient_no>1</patient_no>
+  <resit_tempt>Never</resit_tempt>
+  <giveup_int>Never</giveup_int>
+  <distract>Never</distract>
+  <remember>Never</remember>
+  <int>Never</int>
+</eating>
+<eating>
+   <patient_no>2</patient_no>
+  <resit_tempt>Never</resit_tempt>
+  <giveup_int>Rarely</giveup_int>
+  <distract>Rarely</distract>
+  <remember>Rarely</remember>
+  <int>Never</int>
+</eating>
+<eating>
+  <patient_no>3</patient_no>
+  <resit_tempt>Rarely</resit_tempt>
+  <giveup_int>Rarely</giveup_int>
+  <distract>Sometimes</distract>
+  <remember>Often</remember>
+  <int>Rarely</int>
+</eating>
+<eating>
+  <patient_no>4</patient_no>
+  <resit_tempt>Often</resit_tempt>
+  <giveup_int>Sometimes</giveup_int>
+  <distract>Rarely</distract>
+  <remember>Sometimes</remember>
+  <int>Often</int>
+</eating>
+<eating>
+  <patient_no>5</patient_no>
+  <resit_tempt>Often</resit_tempt>
+  <giveup_int>Always</giveup_int>
+  <distract>Always</distract>
+  <remember>Always</remember>
+  <int>Always</int>
+</eating>
+</patient>
